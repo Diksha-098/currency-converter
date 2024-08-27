@@ -1,1 +1,2 @@
 # currency-converter
+A currency converter is a tool that allows users to convert one country's currency into another. This is especially useful for travelers, businesses, and anyone dealing with international transactions. Currency converters provide up-to-date exchange rates, which are the rates at which one currency can be exchanged for another. These rates fluctuate constantly due to changes in the foreign exchange market.
